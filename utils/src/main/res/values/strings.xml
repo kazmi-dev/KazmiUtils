@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">KazmiUtils</string>
+    <string name="toast_icon_drawable">toast icon drawable</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+</resources>
